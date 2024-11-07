@@ -1,0 +1,39 @@
+
+
+#website{
+    text-shadow: 1px 1px 2px black, 0 0 25px , 0 0 5px rgb(63, 99, 90);
+    color:#11e597;
+    font-family: 'Cinzel', serif;
+    margin-right: auto;
+
+}
+.do{
+    color: black;
+}
+.go{
+    color:white;
+}
+.abcd{
+    display: flex;
+    background-color:rgb(21, 20, 20);
+    text-shadow: 1px 1px 2px black, 0 0 25px , 0 0 5px rgb(63, 99, 90);
+    justify-content: flex-end;
+    
+}
+.abcd span{
+    
+    padding:20px;
+    border-radius: 10px;
+    border:3px solid black;
+    margin:5px;
+    background:#11e597;
+    
+    
+}
+a:hover, a:active {
+    
+    color: rgb(198, 192, 192);
+  }
+  a{
+    text-decoration: none;
+  }

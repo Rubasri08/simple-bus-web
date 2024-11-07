@@ -1,0 +1,15 @@
+.go{
+    color:#11e597;
+    text-align: center;
+}
+body{
+    text-align: center;
+    
+}
+a:hover, a:active {
+    color: rgb(98, 22, 220);
+  }
+a{
+    text-decoration: none;
+    color: aliceblue;
+  }
